@@ -4,8 +4,8 @@
 
 *Usage and Explanation of each file*
 
-1. inheritance.py has different type of inheritance explained using a class example.
-2. deletefoldercontents.py has a very useful function to delete any folder contents programatically, either you can run it in terminal/command prompt like below :
+1. **inheritance.py** has different type of inheritance explained using a class example.
+2. **deletefoldercontents.py** has a very useful function to delete any folder contents programatically, either you can run it in terminal/command prompt like below :
 
    ``` deletefoldercontents.py '/Users/akanshajain/Downloads/FolderYouWantToDelete/' ```
     
