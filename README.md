@@ -10,3 +10,4 @@
    ``` deletefoldercontents.py '/Users/akanshajain/Downloads/FolderYouWantToDelete/' ```
     
     or just take the function clearfolder() and use it anywhere in your code.
+3. **Cool Stuff/** contains code files having some of the cool tricks we can do using python. For ex, Creating PPT.  
