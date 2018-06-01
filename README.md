@@ -12,7 +12,7 @@
     or just take the function clearfolder() and use it anywhere in your code.
 3. **Cool Stuff/** contains code files having some of the cool tricks we can do using python. For ex, Creating PPT.  
 4. **datetime.ipynb** explains 
-* 4.1. conversion to and from python's datetime object,
-* 4.2. extraction of day, month, hour, minutes etc,
-* 4.3. creating timeseries dataset using pandas and numpy,
-* 4.4. visualisation of timeseries data using plotly.
+* conversion to and from python's datetime object,
+* extraction of day, month, hour, minutes etc,
+* creating timeseries dataset using pandas and numpy,
+* visualisation of timeseries data using plotly.
