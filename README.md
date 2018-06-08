@@ -16,4 +16,4 @@
 * extraction of day, month, hour, minutes etc,
 * creating timeseries dataset using pandas and numpy,
 * visualisation of timeseries data using plotly.
-5. **examples/** contains code files of some example programs utilising concepts of python. For ex, banking system simulation.
+5. **examples/** contains code files of some example programs utilising concepts of python. For ex, banking system.
