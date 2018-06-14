@@ -17,3 +17,8 @@
 * creating timeseries dataset using pandas and numpy,
 * visualisation of timeseries data using plotly.
 5. **examples/** contains code files of some example programs utilising concepts of python. For ex, banking system.
+6. **movefiles.py** has a very useful function to transfer any folder contents programatically to another folder, either you can run it in terminal/command prompt giving path to both folder as input like below :
+
+   ``` python movefiles.py 'Desktop/folderOne/' 'Desktop/folderTwo/' ```
+    
+    or just take the function moveFiles() and use it anywhere in your code.
